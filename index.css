@@ -1,0 +1,45 @@
+.bob{
+    color: red
+}
+p{
+    color: black
+}
+button{
+    color: blue;
+    width: 200px;
+    background-color: black;
+    border: none;
+    border-radius: 20px;
+}
+.picture1{
+    width: 400px
+    
+}
+
+.curls{
+    color: blue;
+}
+.picture2{
+    width: 400px;
+}
+
+.ponytail{
+    color: black;
+}
+.picture3{
+    width: 400px;
+}
+
+.braids{
+    color: blueviolet;
+}
+.picture4{
+    width: 400px;
+}
+
+.haircut{
+    color: chartreuse;
+}
+.picture5{
+    width: 400px;
+}
